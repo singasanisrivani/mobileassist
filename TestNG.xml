@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="mobileassist">
+<!--<listeners>-->
+<!--<listener class-name="com.MobileAssist.utilities.Reporting"/>-->
+  <!--  </listeners>-->
+
+<test name="test2">
+<parameter name="browser" value="chrome"/>
+<classes>
+
+<class name="com.MobileAssist.TestCases.TC_LoginTest_01"/>
+<!-- <class name="com.MobileAssist.TestCases.TC_AddCustomer_03"/>-->
+<!-- <class name="com.MobileAssist.TestCases.TC_DataDriven_02"/>-->
+
+</classes>
+</test>
+</suite>

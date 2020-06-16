@@ -1,0 +1,16 @@
+com\testcases\Getcommandsexample.class
+com\MobileAssist\TestCases\Baseclass.class
+com\MobileAssist\TestCases\TC_AddCustomer_03.class
+com\testcases\pomexp.class
+com\testcases\pomexp2.class
+com\MobileAssist\TestCases\TC_LoginTest_01.class
+com\testcases\AlertExmp.class
+com\MobileAssist\utilities\XLUtilities.class
+com\testcases\exampletitle.class
+com\testcases\test.class
+com\MobileAssist\Pageobjects\Logindata.class
+com\MobileAssist\utilities\ReadConfig.class
+com\MobileAssist\Pageobjects\Addcustomer.class
+com\MobileAssist\TestCases\TC_DataDriven_02.class
+com\testcases\Testngexp.class
+com\MobileAssist\utilities\Reporting.class

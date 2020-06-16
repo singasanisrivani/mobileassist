@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [mobileassist]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="test2(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.MobileAssist.TestCases.TC_AddCustomer_03">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="addingcustomer"/>
+        </methods>
+      </class> <!-- com.MobileAssist.TestCases.TC_AddCustomer_03 -->
+    </classes>
+  </test> <!-- test2(failed) -->
+</suite> <!-- Failed suite [mobileassist] -->
